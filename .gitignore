@@ -1,0 +1,1 @@
+rules excluding .env and all .log files
